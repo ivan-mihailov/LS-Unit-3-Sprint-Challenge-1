@@ -266,6 +266,10 @@ career here, you'll have to answer the following:
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
+Answer to Q1: When conducting code reviews, the first thing I check is that the code works. Next, I pay attention to the docstrings and inline comments to understand what the code is supposed to do. The inline comments are very useful when there is a tricky part to a function and the comment explains why the developer chose to write the code this way. I also make sure to remove unnecessary comments when they just clutter the code. Lastly, if I see an easier or more Pythonic way of accomplishing a given task, I suggest it to the developer. I appreciate it when someone does the same for my code.
+
+Answer to Q2: Containers help ensure that a given piece of code can run on any machine because they include all the elements of the operating system and any dependencies necessary for the code to run. The container engine is able to use the host OS to run the OS and the code inside the container. Containers are also more lightweight than virtual machines and do not require each computer to have 2 or 3 operating systems installed.
+
 ### Part 8 - Turn it in!
 
 Provide all the files you wrote (`acme.py`, `acme_report.py`, and
